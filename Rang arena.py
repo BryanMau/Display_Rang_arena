@@ -2,8 +2,8 @@ import requests
 import PySimpleGUI as sg
 
 # API 
-API_KEY = 'RGAPI-5f158e5a-1f0d-4de0-91b5-2f06f89e9970'
-SUMMONER_NAME = 'PX Frata'  # Nom invocateur
+API_KEY = 'XXXX'
+SUMMONER_NAME = 'XXXX'  # Nom invocateur
 REGION = 'euw1'  # Region (e.g., 'na1', 'euw1', 'eun1', etc.)
 
 # Fonction pour avoir le summoner_id
